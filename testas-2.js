@@ -4,7 +4,7 @@
 const mas1 = [12, 5, 9, 7, 5, 4];
 
 console.log(mas1.length);
-console.log("------------------------");
+console.log("----------------------");
 
 //2. Duotas masyvas, masyvą iteruoti ciklu for ir console.log kiekvienoje
 // iteracijoje atspausdinti indeksą ir jo reikšmę;
